@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1306-jump-game-iii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1345-jump-game-iv) |
 | [1929-concatenation-of-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -54,4 +55,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1345-jump-game-iv) |
+## Hash Table
+|  |
+| ------- |
+| [1345-jump-game-iv](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1345-jump-game-iv) |
 <!---LeetCode Topics End-->
