@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0027-remove-element) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0018-4sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
