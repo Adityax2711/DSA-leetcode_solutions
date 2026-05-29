@@ -1,4 +1,42 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 DSA & LeetCode Solutions
+
+Welcome to my personal repository of Data Structures and Algorithms (DSA) problems! This workspace contains my solutions to various LeetCode challenges, meticulously organized by topic to track my progress, optimize my problem-solving skills, and serve as a reference guide.
+
+![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20C++%20%7C%20Java%20%7C%20JS-blue?style=for-the-badge)
+
+## 📌 About This Repository
+
+This collection serves as a continuous log of my daily coding journey. My focus here is on writing clean, well-documented, and highly optimized code. It acts as an active workspace for honing algorithmic thinking, strengthening core CSE concepts, and preparing for technical interviews and competitive exams.
+
+🤝 Let's Connect
+I'm always open to discussing algorithms, logic and problem solving  or exploring new project ideas.
+
+GitHub: @Adityax2711
+LinkedIn(www.linkedin.com/in/aditya-raj-1a54a02a8)
+
+## 🗂️ Core Topics Covered
+
+The solutions are categorized by foundational computer science concepts:
+* **Arrays & Strings**
+* **Two Pointers**
+* **Binary Search**
+* **Linked Lists**
+* **Math & Geometry**
+* **Recursion & Backtracking**
+* **Sorting Algorithms**
+* **Simulation**
+* ** More topics questions will  be added soon
+
+## 🛠️ Languages Used
+
+While problem-solving is language-agnostic, the implementations in this repository are primarily written in
+* `Java`
+
+## 💡 How to Navigate
+
+1. **Clone the repository:** ```bash
+   git clone [https://github.com/Adityax2711/DSA-leetcode_solutions.git](https://github.com/Adityax2711/DSA-leetcode_solutions.git)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
