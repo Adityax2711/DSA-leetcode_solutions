@@ -56,6 +56,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [1306-jump-game-iii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1345-jump-game-iv) |
 | [1929-concatenation-of-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0016-3sum-closest](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0018-4sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Simulation
 |  |
 | ------- |
@@ -122,4 +124,8 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
