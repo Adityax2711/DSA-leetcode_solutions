@@ -88,6 +88,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -145,4 +146,12 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
