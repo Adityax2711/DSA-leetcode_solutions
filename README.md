@@ -89,6 +89,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -150,6 +151,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
 |  |
 | ------- |
