@@ -57,6 +57,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [1345-jump-game-iv](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1345-jump-game-iv) |
 | [1929-concatenation-of-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2574-left-and-right-sum-differences](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
@@ -137,6 +138,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [2574-left-and-right-sum-differences](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
 | ------- |
