@@ -57,6 +57,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [1345-jump-game-iv](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1345-jump-game-iv) |
 | [1929-concatenation-of-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -69,6 +70,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0027-remove-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
@@ -109,6 +111,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
