@@ -53,6 +53,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0560-subarray-sum-equals-k](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1306-jump-game-iii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1345-jump-game-iv) |
@@ -139,6 +140,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1345-jump-game-iv](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1345-jump-game-iv) |
 ## Sliding Window
 |  |
@@ -152,6 +154,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
