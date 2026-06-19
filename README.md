@@ -63,6 +63,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1929-concatenation-of-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -168,6 +169,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0974-subarray-sums-divisible-by-k](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1991-find-the-middle-index-in-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
