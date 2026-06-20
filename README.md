@@ -103,6 +103,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0523-continuous-subarray-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2485-find-the-pivot-integer](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -170,6 +171,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
