@@ -46,6 +46,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0018-4sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -120,6 +121,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | ------- |
 | [0016-3sum-closest](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
