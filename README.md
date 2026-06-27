@@ -42,6 +42,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0018-4sum) |
@@ -144,6 +145,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 ## Depth-First Search
@@ -215,4 +217,8 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
