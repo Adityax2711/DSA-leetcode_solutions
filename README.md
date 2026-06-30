@@ -91,6 +91,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0125-valid-palindrome](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -151,6 +152,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0125-valid-palindrome](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0541-reverse-string-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 ## Depth-First Search
 |  |
