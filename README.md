@@ -81,6 +81,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0018-4sum) |
@@ -149,6 +150,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0344-reverse-string) |
@@ -214,6 +216,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
