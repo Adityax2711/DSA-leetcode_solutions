@@ -159,6 +159,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0541-reverse-string-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,4 +238,5 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
