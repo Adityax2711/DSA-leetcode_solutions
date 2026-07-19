@@ -57,6 +57,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0503-next-greater-element-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -238,5 +239,10 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
