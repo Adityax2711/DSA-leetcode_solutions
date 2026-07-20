@@ -63,6 +63,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0560-subarray-sum-equals-k](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -240,9 +241,11 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
