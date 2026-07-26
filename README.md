@@ -148,6 +148,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
 | ------- |
@@ -162,6 +163,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -243,6 +245,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0503-next-greater-element-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
