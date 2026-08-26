@@ -50,6 +50,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0027-remove-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -118,6 +119,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
