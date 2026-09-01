@@ -58,6 +58,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0525-contiguous-array) |
@@ -182,6 +183,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0496-next-greater-element-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -244,6 +246,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -251,6 +254,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
