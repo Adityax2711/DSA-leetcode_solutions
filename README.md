@@ -52,6 +52,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0057-insert-interval](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -160,6 +161,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0005-longest-palindromic-substring](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -171,6 +173,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0079-word-search) |
 | [1306-jump-game-iii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
@@ -259,4 +262,12 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0496-next-greater-element-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0739-daily-temperatures) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
