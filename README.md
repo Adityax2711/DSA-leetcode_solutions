@@ -57,6 +57,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -144,6 +145,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0056-merge-intervals](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -185,6 +187,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -227,6 +230,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Dynamic Programming
 |  |
@@ -270,4 +274,12 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0079-word-search) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
