@@ -81,6 +81,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2706-buy-two-chocolates](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2706-buy-two-chocolates) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2965-find-missing-and-repeated-values](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -150,6 +151,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0169-majority-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2706-buy-two-chocolates](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2706-buy-two-chocolates) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Simulation
@@ -227,6 +229,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2706-buy-two-chocolates](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2706-buy-two-chocolates) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
