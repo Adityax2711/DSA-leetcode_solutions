@@ -82,6 +82,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2965-find-missing-and-repeated-values](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -128,6 +129,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -196,6 +198,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0560-subarray-sum-equals-k](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1345-jump-game-iv](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1345-jump-game-iv) |
+| [2965-find-missing-and-repeated-values](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -274,6 +277,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0079-word-search) |
+| [2965-find-missing-and-repeated-values](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
