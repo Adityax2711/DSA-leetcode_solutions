@@ -86,6 +86,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [2706-buy-two-chocolates](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2706-buy-two-chocolates) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2965-find-missing-and-repeated-values](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3024-type-of-triangle](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3024-type-of-triangle) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -135,6 +136,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3024-type-of-triangle](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3024-type-of-triangle) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -156,6 +158,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0977-squares-of-a-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2706-buy-two-chocolates](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2706-buy-two-chocolates) |
+| [3024-type-of-triangle](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3024-type-of-triangle) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Simulation
@@ -306,4 +309,8 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
