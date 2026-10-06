@@ -48,6 +48,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0018-4sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0066-plus-one) |
@@ -114,6 +115,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
