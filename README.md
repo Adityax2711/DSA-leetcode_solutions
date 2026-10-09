@@ -71,6 +71,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0643-maximum-average-subarray-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0912-sort-an-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -157,6 +158,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0075-sort-colors](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2706-buy-two-chocolates](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2706-buy-two-chocolates) |
@@ -247,6 +249,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | ------- |
 | [0169-majority-element](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0912-sort-an-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -315,4 +318,24 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3024-type-of-triangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
