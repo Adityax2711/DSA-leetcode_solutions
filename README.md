@@ -133,6 +133,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
