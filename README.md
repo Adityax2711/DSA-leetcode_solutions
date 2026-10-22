@@ -182,6 +182,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0058-length-of-last-word](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0316-remove-duplicate-letters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0541-reverse-string-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0541-reverse-string-ii) |
@@ -241,6 +242,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2706-buy-two-chocolates](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2706-buy-two-chocolates) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -275,6 +277,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0739-daily-temperatures) |
@@ -283,6 +286,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0739-daily-temperatures) |
