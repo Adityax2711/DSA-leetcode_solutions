@@ -129,6 +129,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
 | ------- |
