@@ -136,6 +136,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0002-add-two-numbers](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0067-add-binary) |
 | [0523-continuous-subarray-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -170,6 +171,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -181,6 +183,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 | [0014-longest-common-prefix](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
@@ -311,6 +314,7 @@ While problem-solving is language-agnostic, the implementations in this reposito
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adityax2711/DSA-leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
